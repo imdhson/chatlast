@@ -1,1 +1,0 @@
-Chatlast<config>http://localhost/chatting/io<config>10<config>
